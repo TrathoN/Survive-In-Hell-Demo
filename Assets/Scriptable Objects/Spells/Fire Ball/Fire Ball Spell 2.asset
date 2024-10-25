@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6231adb3cae87224d9801e5e3fae451b, type: 3}
+  m_Name: Fire Ball Spell 2
+  m_EditorClassIdentifier: 
+  spellName: Fireball
+  spellDescription: More Powerful
+  spellPrefab: {fileID: 1870679991701918271, guid: 307926aac7a5e6e45abc6f9ce2ec06da, type: 3}
+  spellNextLevelPrefab: {fileID: 6762085342445601381, guid: 083f48d9c55deef41a44f6b8ef0ea5b0, type: 3}
+  spellNextLevelData: {fileID: 11400000, guid: 6b7fbea8e472fcb469711fe31ea01fb7, type: 2}
+  spellSpriteIcon: {fileID: 21300000, guid: 949c8371e654b674393fc41169757694, type: 3}
+  spellDamage: 125
+  spellExplosionDamage: 250
+  spellSpeed: 3.2
+  spellPierce: 999
+  spellCooldownDur: 13
+  spellExplosionRadius: 2.66
+  spellLevel: 3

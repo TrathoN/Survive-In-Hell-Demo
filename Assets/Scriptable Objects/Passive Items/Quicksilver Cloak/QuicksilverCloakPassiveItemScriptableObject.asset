@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a59ef61b455351641a55cda7086a68fd, type: 3}
+  m_Name: QuicksilverCloakPassiveItemScriptableObject
+  m_EditorClassIdentifier: 
+  passiveItemName: Quicksilver Cloak
+  passiveItemDescription: A Agility Enhancing Rogue Cloak
+  passiveItemNextLevelPrefab: {fileID: 525485463955523214, guid: 3ef8028e27369ac44bd0de2d1661d9a4, type: 3}
+  passiveItemNextLevelData: {fileID: 11400000, guid: 056b26b3b5b96af4d924f717d79a6874, type: 2}
+  passiveItemSpriteIcon: {fileID: 21300000, guid: ac73e56600ae9204e9f33daccd5ce75d, type: 3}
+  multiplier: 10
+  passiveItemLevel: 1
